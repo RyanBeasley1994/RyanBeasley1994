@@ -1,18 +1,21 @@
 # Ryan Beasley
 
-Technical founder focused on trading infrastructure, backend systems, automation, and scalable fintech platforms.
+Technical founder specialising in trading infrastructure, backend systems, automation, and scalable fintech platforms.
 
-I spend most of my time solving complex operational and architectural problems — usually the annoying ones nobody else wants to touch.
+I spend most of my time solving complex architectural and operational problems — usually the annoying production issues nobody else wants to touch.
 
-My background is heavily backend and infrastructure focused, with a strong interest in:
-- trading technology
-- scalable systems
-- automation workflows
-- platform architecture
-- operational tooling
-- debugging hard production issues
+Backend and infrastructure focused with experience across:
+Python • C • C# • Rust • TypeScript • Node.js • PostgreSQL • Kubernetes • Distributed Systems
 
-I enjoy building systems that reduce operational chaos, remove manual processes, and actually scale under pressure.
+I enjoy:
+- debugging difficult production issues
+- finding the actual root cause instead of patching symptoms
+- designing scalable backend systems
+- building automation that removes operational chaos
+- optimising workflows and infrastructure
+- solving problems other people gave up on
+
+If it’s high pressure, business critical, slightly broken, and making everyone panic… I’ll probably enjoy working on it.
 
 ---
 
@@ -21,45 +24,18 @@ I enjoy building systems that reduce operational chaos, remove manual processes,
 - Trading infrastructure
 - FinTech systems
 - Backend architecture
-- Automation workflows
-- Operational scalability
-- Platform integrations
+- Event-driven automation
 - Infrastructure reliability
-
----
-
-## What I Actually Like Working On
-
-- Finding the root cause of weird production issues
-- Untangling overcomplicated systems
-- Designing scalable backend architecture
-- Optimising operational workflows
-- Building automation that saves stupid amounts of manual work
-- Solving problems other people gave up on
-
-Basically:
-if it’s complicated, slightly chaotic, and business critical… I’ll probably enjoy it.
-
----
-
-## Tech Stack
-
-### Backend
-TypeScript • Node.js • PostgreSQL • Redis • APIs • Event-Driven Systems
-
-### Frontend
-React • Next.js • Material UI
-
-### Infrastructure
-Docker • Kubernetes • CI/CD • Cloud Infrastructure • Distributed Systems
+- Platform scalability
+- Operational systems
 
 ---
 
 ## AI
 
-Interested in AI tooling and emerging models, particularly where they improve operational workflows, automation, and developer efficiency.
+Interested in AI tooling and emerging models where they improve developer workflows, operational efficiency, and automation.
 
-Not a vibe coder though. Production still has to survive Monday morning.
+Still believe production systems need real engineering though.
 
 ---
 
@@ -67,10 +43,10 @@ Not a vibe coder though. Production still has to survive Monday morning.
 
 Good systems should:
 - scale properly
-- reduce operational overhead
 - be observable
-- be maintainable
+- reduce operational overhead
 - survive growth without becoming chaos
+- avoid unnecessary complexity
 
 Overengineering is just technical debt wearing a suit.
 
@@ -78,5 +54,5 @@ Overengineering is just technical debt wearing a suit.
 
 ## Connect
 
-LinkedIn:  
+LinkedIn:
 https://www.linkedin.com/in/ryan-beasley-3557b71b2
